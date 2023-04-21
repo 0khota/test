@@ -1,0 +1,15 @@
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.exe
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.deps.json
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.runtimeconfig.json
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.dll
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\bin\Debug\net7.0\CleanDirectories.ConApp.pdb
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.csproj.AssemblyReference.cache
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.AssemblyInfoInputs.cache
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.AssemblyInfo.cs
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.csproj.CoreCompileInputs.cache
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.dll
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\refint\CleanDirectories.ConApp.dll
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.pdb
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\CleanDirectories.ConApp.genruntimeconfig.cache
+C:\Users\ggehr\source\repos\leoggehrer\Templates\QTTaxiDriver\CleanDirectories.ConApp\obj\Debug\net7.0\ref\CleanDirectories.ConApp.dll
